@@ -18,3 +18,17 @@ body {
     color: aquamarine;
 }
 
+#video-demo {
+    margin-top: 1.5em;
+}
+
+#travel-guide h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#travel-guide p {
+    font-size: 21px;
+    color: gray;
+}
