@@ -13,7 +13,7 @@ body {
     text-align: center;
 }
 
-#header a {
+.download {
     font-size: 16px;
     color: aquamarine;
 }
@@ -31,4 +31,14 @@ body {
 #travel-guide p {
     font-size: 21px;
     color: gray;
+}
+
+#mobile-app {
+    margin-top: 21px;
+}
+
+#mobile-app h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
 }
