@@ -42,3 +42,10 @@ body {
     font-size: 42px;
     color: white;
 }
+
+#footer {
+    margin-right: 0.5em;
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+}
