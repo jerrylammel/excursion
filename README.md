@@ -13,3 +13,5 @@ Now, I've finished the project for first release, hooray!
 I could make this landing page responsive to cater for screen in different sizes.
 This landing page is subject to change when the Excursion App would be available for download, which is
 pending for new requirements. 
+
+Manijeh was here, That's great Jerry.
